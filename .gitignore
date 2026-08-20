@@ -1,0 +1,7 @@
+node_modules/
+config.json
+cookies.txt
+yt-dlp
+yt-dlp.exe
+scratch/
+.env

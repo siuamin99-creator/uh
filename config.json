@@ -1,0 +1,38 @@
+{
+    "token": "MTI1NDc0NjkzNTczNTA5MTI3NQ.GB2Nl5.eEEyKtttWDU2ESYOSqaKpVkES_wnesQPPpQyhg",
+    "prefix": "f",
+    "web_port": 3000,
+    "spotify_client_id": "764590e07f0f484aa10cbc8d81f46211",
+    "spotify_client_secret": "07a24f4f7d7f403ea1103eb3402dd3b4",
+    "owner_ids": [
+        "1522197368601055304"
+    ],
+    "youtube_cookies_from_browser": "",
+    "youtube_cookie": "__Secure-3PSID=g.a000_wjis0PqqJB4QgKEvbVGkhaim5Ou07Y44L4XyOlpz3GbAzTXVjiDlLl-uhUbn-_sM07zvgACgYKAVQSARASFQHGX2MiIBboYk7QvZszLpKsNPkTeRoVAUF8yKoNAyRiKfyQ-Xe2lbnn1kAL0076;__Secure-1PSIDTS=sidts-CjQBPWEu2R8wsEFfkILXUnSB0ejwccAXhISD07fKzwgySUYhQNhVUWexmLkFsf84If44LT13EAA;SAPISID=9rV8ySNwZizq41Mt/A4q3QPxcjkBVVm6dx;__Secure-1PSIDCC=AKEyXzUeY67GpMvqElbgOrb8Nm9S14meC9VRP5Txq30VLs98CJDvOTBGieOPGFxaszFXhxjd;SSID=A8KEB_iu0FK-6Xi2o;__Secure-1PAPISID=9rV8ySNwZizq41Mt/A4q3QPxcjkBVVm6dx;__Secure-1PSID=g.a000_wjis0PqqJB4QgKEvbVGkhaim5Ou07Y44L4XyOlpz3GbAzTXG31lXMI1e_r2n3cOt-gb6AACgYKAXESARASFQHGX2MipyD0eFmSPzIRDKKOaULwxhoVAUF8yKpbqan22BB0ZfIpHQRbECIN0076;__Secure-3PAPISID=9rV8ySNwZizq41Mt/A4q3QPxcjkBVVm6dx;__Secure-3PSIDCC=AKEyXzUKKMMch1GOv536FX0c7_7TWWecapddNeTIj9K17Io0ST9yct7yPxA_WfCwCFeVjtQIfA;__Secure-3PSIDTS=sidts-CjQBPWEu2R8wsEFfkILXUnSB0ejwccAXhISD07fKzwgySUYhQNhVUWexmLkFsf84If44LT13EAA;LOGIN_INFO=AFmmF2swRgIhAMiehbfKx4JgCyMP4GaxpqBpaKt5MfSUXeyDvfPhengYAiEAlVAHMc-KWZu_Apb_thOUfWxTGr7tT4aDIztPlHyQzeY:QUQ3MjNmeVNBWndOQV9KUk0xcjJCdzB4WkdRZU9NaXFCWkpLdjBEbmhMRWFVUHcxLU9qZDVkSkNyNW1pTjFQcFR2dnl5T1lyQXUycnhXall3eWs1eDIwekdwLThfbHVuRkNpaUc2QmdxV213aTg0cDNaeHh5MmlWbVF4TXY3a1ZuejBoVmp2UXJfd1pqSVkxRXJxb1JnY29DNXZmY0lESkhB;PREF=f6=40000000&tz=Asia.Dhaka",
+    "lavalink_nodes": [
+        {
+            "name": "Public Node 1 (Serenetia v4 SSL)",
+            "url": "lavalinkv4.serenetia.com:443",
+            "auth": "https://seretia.link/discord",
+            "secure": true
+        },
+        {
+            "name": "Public Node 2 (Millohost v4)",
+            "url": "lava-v4.millohost.my.id:443",
+            "auth": "https://discord.gg/mjS5J2K3ep",
+            "secure": true
+        },
+        {
+            "name": "Public Node 3 (Kasawa v4)",
+            "url": "lava2.kasawa.pro:2334",
+            "auth": "youshallnotpass",
+            "secure": false
+        },
+        {
+            "name": "Public Node 4 (Serenetia v4 80)",
+            "url": "lavalinkv4.serenetia.com:80",
+            "auth": "https://seretia.link/discord",
+            "secure": false
+        }
+    ]
+}
